@@ -1,2 +1,23 @@
-# SCT_WD_3
-An interactive Quiz Game Application built with HTML, CSS, and JavaScript featuring multiple-choice questions, score tracking, timer functionality, and a responsive user interface.
+# Quiz Game Application
+
+A responsive and interactive quiz game built using HTML, CSS and JavaScript.
+
+## Features
+
+- Multiple Choice Questions
+- Score Tracking
+- Timer
+- Progress Bar
+- Responsive Design
+- Restart Functionality
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Developed For
+
+SkillCraft Technology Internship
+Task 03 - Quiz Game Application
